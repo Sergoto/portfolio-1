@@ -12,6 +12,12 @@ const Contact = () => {
         <div className="table-cell border-b border-b-[#e6f1ff] border-opacity-25 w-full"></div>
       </div>
       <div className="text-[#a2aabc] text-lg mt-5 mx-12 lg:mx-60 flex flex-col items-center text-justify">
+        <img
+          class="rounded-full border border-gray-100 shadow-sm"
+          src="https://i.imgur.com/Zoqya1u.jpg?1"
+          alt="photo"
+        />
+        <br />
         <code>
           Currently looking for new opportunities, you can contact me via my
           linkedIn or my email at:
