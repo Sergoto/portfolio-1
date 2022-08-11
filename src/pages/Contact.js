@@ -15,7 +15,7 @@ const Contact = () => {
         <img
           class="rounded-full border border-gray-100 shadow-sm"
           src="https://i.imgur.com/Zoqya1u.jpg?1"
-          alt="photo"
+          alt=""
         />
         <br />
         <code>
