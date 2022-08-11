@@ -8,8 +8,7 @@ const JSIcon = require("../assets/icons/JSIcon.png");
 const JSXIcon = require("../assets/icons/JSXIcon.png");
 const JSONIcon = require("../assets/icons/JSONIcon.png");
 const PythonIcon = require("../assets/icons/PythonIcon.png");
-const EJSIcon = require("../assets/icons/EJSIcon.png")
-
+const EJSIcon = require("../assets/icons/EJSIcon.png");
 
 const LeftBar = () => {
   const [showWebList, SetShowWebList] = useState(true);
@@ -30,13 +29,9 @@ const LeftBar = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <p>
-              First Project:
-              <br />
-              IMDB Trivia GAME
-            </p>
-            <br />
+            <p>IMDB Trivia GAME</p>
           </a>
+          <br />
         </div>
       </a>
       <a href="/">
@@ -51,11 +46,7 @@ const LeftBar = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <p>
-              Second Project: <br />
-              TFT DB
-            </p>
-            <br />
+            <p>TFT DB</p>
           </a>
         </div>
       </a>
@@ -71,12 +62,7 @@ const LeftBar = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <p>
-              Third Project:
-              <br />
-              Mind Over Matter
-            </p>
-            <br />
+            <p>Mind Over Matter</p>
           </a>
         </div>
       </a>
@@ -92,12 +78,7 @@ const LeftBar = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <p>
-              Fourth Project:
-              <br />
-              Animedia
-            </p>
-            <br />
+            <p>Animedia</p>
           </a>
         </div>
       </a>
@@ -122,7 +103,7 @@ const LeftBar = () => {
           </a>
         </div>
       </a>
-      <br />
+
       <a href="/">
         <div className="ml-12 flex items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] w-60">
           <img
@@ -139,7 +120,7 @@ const LeftBar = () => {
           </a>
         </div>
       </a>
-      <br />
+
       <a href="/">
         <div className="flex whitespace-nowrap items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] focus:bg-slate-300 ml-12 w-60">
           <img
@@ -151,8 +132,8 @@ const LeftBar = () => {
             <p>Mail</p>
           </a>
         </div>
-          </a>
-          <br/>
+      </a>
+
       <a href="/">
         <div className="flex whitespace-nowrap items-center hover:cursor-pointer hover:bg-opacity-80 hover:bg-[#2b2a2a] ml-12 w-60">
           <img

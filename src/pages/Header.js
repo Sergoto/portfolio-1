@@ -6,7 +6,8 @@ function Header() {
       id="Header"
       className="mx-12 lg:mx-60 pt-60 items-center justify-center lg:w-1/2 text-justify"
     >
-      <div className="flex flex-col mt-20 mb-5">
+      <div className="flex flex-col mt-15 mb-5">
+        <img className="object-scale-down h-40 w-40" src="https://i.imgur.com/XwhgNwI.jpg" />
         <code className="text-blue_vs mt-5">Welcome, my name is</code>
         <code className="text-[#b7ceed] text-7xl mt-5">David Lin</code>
         <code className="text-blue_vs mt-2">

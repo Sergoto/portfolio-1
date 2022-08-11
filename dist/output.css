@@ -721,6 +721,10 @@ video {
   height: 1.5rem;
 }
 
+.h-40 {
+  height: 10rem;
+}
+
 .w-5 {
   width: 1.25rem;
 }
@@ -763,6 +767,10 @@ video {
 
 .w-3\/4 {
   width: 75%;
+}
+
+.w-40 {
+  width: 10rem;
 }
 
 .scale-95 {
@@ -880,6 +888,14 @@ video {
 .bg-gray-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(17 24 39 / var(--tw-bg-opacity));
+}
+
+.object-contain {
+  object-fit: contain;
+}
+
+.object-scale-down {
+  object-fit: scale-down;
 }
 
 .p-3 {
