@@ -20,7 +20,7 @@ const Contact = () => {
         <br />
         <code>
           Currently looking for new opportunities, you can contact me via my
-          linkedIn or my email at:
+          LinkedIn or my email at:
           <br />
           <br />
           Dklin22@gmail.com
